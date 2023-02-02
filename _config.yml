@@ -4,3 +4,5 @@ description:
 show_downloads: true
 theme: minima
 
+minima:
+  skin: dark
