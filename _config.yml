@@ -1,8 +1,6 @@
 title: mmaha
 description: 
-google_analytics: UA-49238540-2
+# google_analytics: UA-49238540-2
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: minima
 
-gems:
-  - jekyll-mentions
