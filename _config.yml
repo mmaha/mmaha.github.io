@@ -1,7 +1,7 @@
 title: mmaha
-description: 
+description: Random info
 # google_analytics: UA-49238540-2
-show_downloads: true
+show_downloads: false
 theme: minima
 
 minima:
